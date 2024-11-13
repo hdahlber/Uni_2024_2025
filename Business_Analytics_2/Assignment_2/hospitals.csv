@@ -1,0 +1,101 @@
+ID,Name,Location,Specialization
+H0001,Hospital_1,New York,Oncology
+H0002,Hospital_2,New York,Orthopedics
+H0003,Hospital_3,Chicago,Orthopedics
+H0004,Hospital_4,Los Angeles,Pediatrics
+H0005,Hospital_5,Los Angeles,Orthopedics
+H0006,Hospital_6,Los Angeles,Neurology
+H0007,Hospital_7,New York,Orthopedics
+H0008,Hospital_8,Miami,Neurology
+H0009,Hospital_9,New York,Pediatrics
+H0010,Hospital_10,Miami,Oncology
+H0011,Hospital_11,Houston,Oncology
+H0012,Hospital_12,New York,Orthopedics
+H0013,Hospital_13,New York,Neurology
+H0014,Hospital_14,New York,Cardiology
+H0015,Hospital_15,Los Angeles,Cardiology
+H0016,Hospital_16,Los Angeles,Cardiology
+H0017,Hospital_17,Miami,Oncology
+H0018,Hospital_18,Miami,Oncology
+H0019,Hospital_19,New York,Neurology
+H0020,Hospital_20,Miami,Orthopedics
+H0021,Hospital_21,Los Angeles,Cardiology
+H0022,Hospital_22,Miami,Neurology
+H0023,Hospital_23,Houston,Neurology
+H0024,Hospital_24,Los Angeles,Orthopedics
+H0025,Hospital_25,Houston,Neurology
+H0026,Hospital_26,Miami,Orthopedics
+H0027,Hospital_27,Chicago,Pediatrics
+H0028,Hospital_28,New York,Orthopedics
+H0029,Hospital_29,Los Angeles,Cardiology
+H0030,Hospital_30,Houston,Cardiology
+H0031,Hospital_31,Chicago,Orthopedics
+H0032,Hospital_32,Chicago,Pediatrics
+H0033,Hospital_33,Los Angeles,Pediatrics
+H0034,Hospital_34,Los Angeles,Cardiology
+H0035,Hospital_35,Chicago,Pediatrics
+H0036,Hospital_36,New York,Neurology
+H0037,Hospital_37,New York,Oncology
+H0038,Hospital_38,Houston,Neurology
+H0039,Hospital_39,New York,Cardiology
+H0040,Hospital_40,Chicago,Pediatrics
+H0041,Hospital_41,Chicago,Orthopedics
+H0042,Hospital_42,Miami,Oncology
+H0043,Hospital_43,Chicago,Orthopedics
+H0044,Hospital_44,New York,Cardiology
+H0045,Hospital_45,Houston,Pediatrics
+H0046,Hospital_46,Miami,Orthopedics
+H0047,Hospital_47,New York,Orthopedics
+H0048,Hospital_48,Houston,Oncology
+H0049,Hospital_49,New York,Oncology
+H0050,Hospital_50,Miami,Pediatrics
+H0051,Hospital_51,Chicago,Oncology
+H0052,Hospital_52,Miami,Orthopedics
+H0053,Hospital_53,Chicago,Orthopedics
+H0054,Hospital_54,Miami,Cardiology
+H0055,Hospital_55,Los Angeles,Orthopedics
+H0056,Hospital_56,New York,Pediatrics
+H0057,Hospital_57,New York,Neurology
+H0058,Hospital_58,Los Angeles,Cardiology
+H0059,Hospital_59,Chicago,Cardiology
+H0060,Hospital_60,New York,Pediatrics
+H0061,Hospital_61,Los Angeles,Pediatrics
+H0062,Hospital_62,New York,Oncology
+H0063,Hospital_63,Houston,Cardiology
+H0064,Hospital_64,Chicago,Oncology
+H0065,Hospital_65,Houston,Orthopedics
+H0066,Hospital_66,Chicago,Cardiology
+H0067,Hospital_67,Los Angeles,Cardiology
+H0068,Hospital_68,Chicago,Neurology
+H0069,Hospital_69,Chicago,Cardiology
+H0070,Hospital_70,Los Angeles,Orthopedics
+H0071,Hospital_71,Chicago,Oncology
+H0072,Hospital_72,New York,Oncology
+H0073,Hospital_73,Miami,Neurology
+H0074,Hospital_74,Los Angeles,Orthopedics
+H0075,Hospital_75,Miami,Oncology
+H0076,Hospital_76,Los Angeles,Pediatrics
+H0077,Hospital_77,Los Angeles,Orthopedics
+H0078,Hospital_78,Houston,Orthopedics
+H0079,Hospital_79,Houston,Neurology
+H0080,Hospital_80,Chicago,Oncology
+H0081,Hospital_81,Miami,Orthopedics
+H0082,Hospital_82,Los Angeles,Oncology
+H0083,Hospital_83,Chicago,Pediatrics
+H0084,Hospital_84,New York,Neurology
+H0085,Hospital_85,Los Angeles,Pediatrics
+H0086,Hospital_86,New York,Neurology
+H0087,Hospital_87,Chicago,Orthopedics
+H0088,Hospital_88,Houston,Neurology
+H0089,Hospital_89,Chicago,Cardiology
+H0090,Hospital_90,New York,Oncology
+H0091,Hospital_91,Los Angeles,Oncology
+H0092,Hospital_92,Miami,Cardiology
+H0093,Hospital_93,Chicago,Pediatrics
+H0094,Hospital_94,Los Angeles,Cardiology
+H0095,Hospital_95,Houston,Orthopedics
+H0096,Hospital_96,Houston,Orthopedics
+H0097,Hospital_97,Houston,Oncology
+H0098,Hospital_98,Los Angeles,Orthopedics
+H0099,Hospital_99,Chicago,Oncology
+H0100,Hospital_100,Los Angeles,Cardiology
