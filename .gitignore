@@ -1,1 +1,4 @@
 web_tech/webtechenv/
+__pycache__/
+*/__pycache__/
+db.sqlite3
