@@ -6,11 +6,15 @@ import Login from "./views/Login.jsx"
 import Account from "./views/Account.jsx"
 import MyItems from "./views/MyItems.jsx"
 
+import Navbar from "./components/Navbar"
+
 export default function App() {
   return (
     
       
     <BrowserRouter>
+    <Navbar />
+
     
         
       <Routes>
