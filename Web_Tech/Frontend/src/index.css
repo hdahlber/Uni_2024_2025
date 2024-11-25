@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+  .navbar-icon{
+    @apply relative flex items-center justify-center mx-auto bg-secondary text-white
+    hover:text-quaternary
+  }
+  
+
+}
