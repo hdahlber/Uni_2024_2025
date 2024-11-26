@@ -3,7 +3,10 @@ export default function CardContainer(){
 
     return(
         <div>
-        <Card title={"jacket"}>qwe</Card>
+        <Card title="Sample Product"></Card>
+        <Card title="Sample Product"></Card>
+        <Card title="Sample Product"></Card>
+        <Card title="Sample Product"></Card>
         </div>
     )
 }

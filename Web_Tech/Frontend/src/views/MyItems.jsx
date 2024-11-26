@@ -1,11 +1,13 @@
 import React from 'react';
-
+import Navbar from '../components/Navbar';
 
 const MyItems = () => {
- return (
-   <div>MyItems is this</div>
+  return (
+    <>
+      <Navbar />
+   
+    </>
   );
-
 };
 
 export default MyItems;

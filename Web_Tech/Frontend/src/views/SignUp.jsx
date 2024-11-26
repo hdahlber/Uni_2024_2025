@@ -1,13 +1,13 @@
 import React from 'react';
-
+import Navbar from '../components/Navbar';
 
 const SignUp = () => {
- return (
-    <div>
-    <h1>Sign Up</h1>
-  </div>
+  return (
+    <>
+      <Navbar />
+      
+    </>
   );
-
 };
 
 export default SignUp;
