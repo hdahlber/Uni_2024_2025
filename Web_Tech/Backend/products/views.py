@@ -38,3 +38,22 @@ class ProductDetailAPIView(APIView):
             return Response(serializer.data)
         except Product.DoesNotExist:
             return Response({"detail": "Not found."}, status=status.HTTP_404_NOT_FOUND)
+    
+    def put(self,request,pk):
+        try:
+            product = Product.objects.get(pk=pk)
+            serializer = ProductSerializer(product, data=request.data)
+            if serializer.is_valid():
+                serializer.save()
+                return Response(serializer.data)
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        except Product.DoesNotExist:
+            return Response({"detail": "Not found."}, status=status.HTTP_404_NOT_FOUND)
+        
+    def delete(self, request, pk):
+        try:
+            product = Product.objects.get(pk=pk)
+            product.delete()
+            return Response(status=status.HTTP_204_NO_CONTENT)
+        except Product.DoesNotExist:
+            return Response({"detail": "Not found."}, status=status.HTTP_404_NOT_FOUND)
