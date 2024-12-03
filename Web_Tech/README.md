@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 migrate the db
 ```
-python backend/manage.py migrate
+python manage.py migrate
 ```
 run server
 ```
