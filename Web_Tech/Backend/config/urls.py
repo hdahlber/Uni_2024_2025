@@ -20,5 +20,6 @@ from products import views as productviews
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/products',productviews.ProductListAPIView.as_view(), name="product-list")
+    path('api/products', productviews.ProductListAPIView.as_view(), name="product-list"),
+    path('api/products/<int:pk>/', productviews.ProductDetailAPIView.as_view(), name="product-detail"),
 ]
