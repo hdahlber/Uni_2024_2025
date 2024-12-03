@@ -26,3 +26,23 @@
 - [ ] Edit item
 - [ ] User friendly
 ## How to run the project
+Create virtual env in backend
+```
+python -m venv webtechenv
+```
+Activate venv in backend folder
+```
+webtechenv\Scripts\activate
+```
+Install requirements
+```
+pip install -r requirements.txt
+```
+migrate the db
+```
+python backend/manage.py migrate
+```
+run server
+```
+python manage.py runserver
+```
