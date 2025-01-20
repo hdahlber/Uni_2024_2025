@@ -14,7 +14,5 @@
 
 ### [Data Science](https://studiehandboken.abo.fi/sv/kurs/IT00CH95/21589?period=2024-2027) 
 
-### [GPU programmering](https://studiehandboken.abo.fi/sv/kurs/IT00CG19/19162?period=2024-2027) 
-
 ### [Web Technologies](https://studiehandboken.abo.fi/sv/kurs/IT00CD40/17066?period=2024-2027) 
 
