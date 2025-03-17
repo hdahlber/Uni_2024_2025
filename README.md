@@ -14,6 +14,8 @@
 
 ### [Data Management](https://studiehandboken.abo.fi/sv/kurs/457613.0/2666?period=2024-2027)
 
+### [Business Intelligence](https://studiehandboken.abo.fi/sv/kurs/IS00CR18/30621?period=2024-2027)
+
 
 
 ## Computer engineering courses
