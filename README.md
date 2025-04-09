@@ -10,11 +10,13 @@
 
 ### [Programming for Analytics](https://studiehandboken.abo.fi/sv/kurs/457611.0/2665?period=2024-2027)
 
+### [Financial Derivatives](https://studiehandboken.abo.fi/sv/kurs/NE00CC07/16442?period=2024-2027)
+
 ### [Development of Digital Services](https://studiehandboken.abo.fi/sv/kurs/457316.0/1504?period=2024-2027)
 
 ### [Data Management](https://studiehandboken.abo.fi/sv/kurs/457613.0/2666?period=2024-2027)
 
-
+### [Portfolio Optimization and Risk Analysis](https://studiehandboken.abo.fi/sv/kurs/NE00CC08/16443?period=2024-2027)
 
 ## Computer engineering courses
 
